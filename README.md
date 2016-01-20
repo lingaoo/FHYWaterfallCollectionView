@@ -6,7 +6,7 @@ A WaterfallCollectionViewDemo
 六部完成瀑布流。
 
 # 第一步：引入申明文件
-        import "FHYWaterView.h"
+    import "FHYWaterView.h"
 
 # 第二步：遵循三个协议
                 @interface ViewController ()<UICollectionViewDataSource, UICollectionViewDelegate, EqualWidthLayOutDelegate>
